@@ -89,7 +89,13 @@ Projects are a chance for you to build and ship code that is based on class conc
     - *Predict Expected Returns* - predict the expected returns of an investment decision
     - *Investment Site Challenge* - familiarize yourself with a variety of investment sites and notice their distinctions
   - **After Class** - 1. Start Personal Finance Tutorial
-  
+
+## . Health and Wellness: Sleep & Relaxation
+  - **In Class Activities** - 
+    - *Progressive Muscle Relaxation activity* 
+    - *Meditation activity* 
+  - **After Class** - 1. Practice one strategy covered in class every day
+
 ## .  Personal Finance: Compound Interest & Inflation
   - **In Class Activities** - 
     - *Compouned Interest Simulation* 
@@ -98,12 +104,25 @@ Projects are a chance for you to build and ship code that is based on class conc
     - *Personal Finance Playground* - Use the personal finance playground to answer questions listed in the activity slides
   - **After Class** - 1. Start Personal Finance Tutorial
 
+## . Health and Wellness: Exercise
+  - **In Class Activities** - 
+    - *Exercise goals worksheet*
+    - *Yoga activity* - participate in yoga led by a professional instructor
+    - *Body-weight exercise activity* - participate in a body weight exercise led by a professional instructor
+  - **After Class** - 1. Pick a workout to do between this class and next class
+
 ## .  Personal Finance: Insurance & Credit
   - **In Class Activities** - 
     - *Draw the Insurance Business Model* 
     - *Draw the Credit Card Business Model* 
     - Additional??
     - *Personal Finance Playground* - Use the personal finance playground to answer questions listed in the activity slides
+  - **After Class** - 1. Start Personal Finance Tutorial
+
+## . Health and Wellness: Diet
+  - **In Class Activities** - 
+    - *Diet improvement reflection questions*
+    - *Smoothie Making* 
   - **After Class** - 1. Start Personal Finance Tutorial
 
 ## .  Personal Finance: Employment forms, taxation, charitable contributions
@@ -117,30 +136,13 @@ Projects are a chance for you to build and ship code that is based on class conc
   - **In Class Activities** - 
   - **After Class** - 1. Start Personal Finance Tutorial
 
-## . Health and Wellness: Intro
+
+  ## . Health and Wellness: Intro
   - **In Class Activities**
     - *Fill out Habit Tracker*
     - *Select lightning talk presentation topics*
   - **After Class** - 1.) continue journaling
-  
-## . Health and Wellness: Exercise
-  - **In Class Activities** - 
-    - *Exercise goals worksheet*
-    - *Yoga activity* - participate in yoga led by a professional instructor
-    - *Body-weight exercise activity* - participate in a body weight exercise led by a professional instructor
-  - **After Class** - 1. Pick a workout to do between this class and next class
-  
-## . Health and Wellness: Sleep & Relaxation
-  - **In Class Activities** - 
-    - *Progressive Muscle Relaxation activity* 
-    - *Meditation activity* 
-  - **After Class** - 1. Practice one strategy covered in class every day
 
-## . Health and Wellness: Diet
-  - **In Class Activities** - 
-    - *Diet improvement reflection questions*
-    - *Smoothie Making* 
-  - **After Class** - 1. Start Personal Finance Tutorial
   
 ## Ramp Camp: Continuous Integration with Travis CI
 
