@@ -40,24 +40,24 @@ Students by the end of the course will be able to ...
 
 **Course Dates:** Tuesday, January 22 – Thursday, March 7, 2019 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (12 class sessions)
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  Wk 1 |  Tuesday, January 22              | [Lesson 1] |
-|  Wk 1 | Thursday, January 24             | [Lesson 2] |
-|  Wk 2 |  Tuesday, January 29             | [Lesson 3] |
-|  Wk 2 | Thursday, January 31             | [Lesson 4] |
-|  Wk 3 |  Tuesday, February 5             | [Lesson 5] |
-|  Wk 3 | Thursday, February 7             | [Lesson 6] |
-|  Wk 4 |  Tuesday, February 12             | [Lesson 7] |
-|  Wk 4 | Thursday, February 14             | [Lesson 8] |
-|  Wk 5 |  Tuesday, February 19             | [Lesson 9] |
-|  Wk 5 | Thursday, February 21             | [Lesson 10] |
-|  Wk 6 |  Tuesday, February 26             | [Lesson 11] |
-|  Wk 6 | Thursday, February 28             | [Lesson 12] |
-|  Wk 7 |  Tuesday, March 5             | Final Exams |
-|  Wk 7 | Thursday, March 7             | Final Class (presentations, etc) |
+|  1 |  Tuesday, January 22              | [Lesson 1] |
+|  2 | Thursday, January 24             | [Lesson 2] |
+|  3 |  Tuesday, January 29             | [Lesson 3] |
+|  4 | Thursday, January 31             | [Lesson 4] |
+|  5 |  Tuesday, February 5             | [Lesson 5] |
+|  6 | Thursday, February 7             | [Lesson 6] |
+|  7 |  Tuesday, February 12             | [Lesson 7] |
+|  8 | Thursday, February 14             | [Lesson 8] |
+|  - |  Tuesday, February 19             | **President's Day (Observed)** |
+|  9 | Thursday, February 21             | [Lesson 9] |
+|  10 |  Tuesday, February 26             | [Lesson 10] |
+|  11 | Thursday, February 28             | [Lesson 11] |
+|  12 |  Tuesday, March 5             | Final Class (presentations, etc) |
+|  13 | Thursday, March 7             | Final Exams/Presentations |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
@@ -84,11 +84,28 @@ Tutorials are to help you get started in a topic.  They are graded on completion
 - - Personal Finance Tutorial - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers)
 
 ### Projects
+**All coding projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+
+- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
+- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+
+#### Why are we doing this?
+
+We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
+
+- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
+- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
+- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
+
+Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
 Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
 - [Sample Project](Sample_Project.md)
     -   [Sample Project Rubric](Sample_Rubric.md)
 
 ### Other Class assignments
+
+## Ramp Camp: How to Hire Engineers
 
 ## Ramp Camp: Documentation & ReadMes
 
