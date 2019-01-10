@@ -24,15 +24,17 @@ Class Sessions:  14 classes, 7 labs
 
 SPD 2.1 and SPD 2.2
 
-## Learning Objectives or Competencies (5-8)
+## Learning Objectives
 
 Students by the end of the course will be able to ...
 
 1. Define a variety of financial terms including compound interest, inflation, time value of money
 1. Model and incentives for insurnace companies, credit card companies, investment brokers
 1. Utilize various science-based strategies to improve diet, exercise, sleep and relaxation
-1. Design & Implement
-1. Master
+1. Understand how the engineering hiring process works and the various systems/incentives that a hiring manager uses to make decisions
+1. Easily familiarize themselves with professional tools used at large software companies such as JIRA, Travis CI, Pivotal Tracker, and loggers
+1. Read technical documentation in order to navigate and contribute to massive codebases
+1. Write technical documentation in a clear, concise manner that utilizes examples to convey usage.
 
 
 
