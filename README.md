@@ -22,14 +22,15 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-SPD 2.1 and SPD 2.2
+SPD 2.2
 
 ## Learning Objectives
 
 Students by the end of the course will be able to ...
 
-1. Define a variety of financial terms including compound interest, inflation, time value of money
-1. Model and incentives for insurnace companies, credit card companies, investment brokers
+1. Become aware of the various financial tools and concepts to gain understanding and control of your finances 
+1. Set ambitious personal financial goals and strategize how to reach them
+1. Spend money to make more money in the future as informed by investments, intertest, inflation, time value of money, credit cards, insurance
 1. Utilize various science-based strategies to improve diet, exercise, sleep and relaxation
 1. Understand how the engineering hiring process works and the various systems/incentives that a hiring manager uses to make decisions
 1. Easily familiarize themselves with professional tools used at large software companies such as JIRA, Travis CI, Pivotal Tracker, and loggers
@@ -80,43 +81,15 @@ Students by the end of the course will be able to ...
 - Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
 - Projects should be linked to a project page which has a description & requirements.
 
-### Tutorials
+### Tutorials & Projects
 Tutorials are to help you get started in a topic.  They are graded on completion only.
+    - Personal Finance Tutorial - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers)
+Projects
+    - [Personal Financial Model]()
+    - [Personal Health/Wellness blog post]()
 
-- - Personal Finance Tutorial - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers)
-
-### Projects
-**All coding projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
-
-- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
-- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
-
-#### Why are we doing this?
-
-We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
-
-- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
-- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
-- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
-
-Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
-- [Sample Project](Sample_Project.md)
-    -   [Sample Project Rubric](Sample_Rubric.md)
-
-### Other Class assignments
-
-## Ramp Camp: How to Hire Engineers
-
-## Ramp Camp: Documentation & ReadMes
-
-## Assessment: 
-
-## Blog Post Feedback: How to get into x y z
 
 ## Evaluation
-[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials 
