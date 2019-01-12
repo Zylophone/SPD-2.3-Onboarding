@@ -2,4 +2,13 @@ Complete this to earn credit for your course
 
 ## Technical Requirements
 - captures expenses
-- has an input box
+- input box with line items for salary, ISA, taxes
+- input box for monthly fixed and variable expenses
+- all formulas reference input box
+
+## Functional Requirements
+- 
+-
+-
+
+
