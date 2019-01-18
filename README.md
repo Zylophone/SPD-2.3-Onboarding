@@ -75,10 +75,6 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
-- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
-- Projects should be linked to a project page which has a description & requirements.
-
 ### Tutorials & Projects
 Tutorials are to help you get started in a topic.  They are graded on completion only.:
 
@@ -86,8 +82,10 @@ Tutorials are to help you get started in a topic.  They are graded on completion
 
 Projects
 
-- [Personal Financial Model]()
-- [Personal Health/Wellness blog post]()
+- [Personal Financial Model](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/personal-financial-model.md)
+  - [Evaluation](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/personal-financial-model.md)
+- [Personal Health/Wellness blog post](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/health-wellness-blog-post.md)
+  - [Evaluation](https://github.com/Make-School-Courses/SPD-2.3-Onboarding/blob/master/Assignments/personal-financial-model.md)
 
 
 ## Evaluation
