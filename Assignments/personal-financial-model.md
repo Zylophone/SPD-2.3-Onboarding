@@ -13,6 +13,9 @@ Due: __________
 - You've accurately estimated and inputted items into your input boxes (10 pts)
 - Inputting estimates results in an accurately calculated Total Kept Income (10 pts)
 
+## Resources
+- Personal Finance for Developers tutorial (add link) - this tutorial takes you on a step by step process to build a personal financial model that meets the requirements of this project.
+
 ## Submission & Evaluation 
 
 Submission
