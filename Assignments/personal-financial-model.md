@@ -11,4 +11,9 @@ Complete this to earn credit for your course
 -
 -
 
+## Written Requirements
+- Answer your technical questions with this
+-
+-
+
 
