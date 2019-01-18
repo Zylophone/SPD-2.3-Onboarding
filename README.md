@@ -1,7 +1,5 @@
 # SPD 2.3 Onboarding
 
-# Title
-
 ## Course Description
 
 This course prepares students to onboard to a development job and to navigate the time between joining a company and making valuable contributions to the codebase; commonly known as ramping. Building on best practices from company onboarding programs or Ramp Camps, the course covers common architectures and tools that large codebases use to operate including continuous integration with Travis CI, code reviews, server admin, and containers using Docker. 
@@ -82,11 +80,14 @@ Students by the end of the course will be able to ...
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials & Projects
-Tutorials are to help you get started in a topic.  They are graded on completion only.
-    - Personal Finance Tutorial - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers)
+Tutorials are to help you get started in a topic.  They are graded on completion only.:
+
+- Personal Finance Tutorial - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers)
+
 Projects
-    - [Personal Financial Model]()
-    - [Personal Health/Wellness blog post]()
+
+- [Personal Financial Model]()
+- [Personal Health/Wellness blog post]()
 
 
 ## Evaluation
