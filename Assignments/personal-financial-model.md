@@ -14,7 +14,7 @@ Due: __________
 - Inputting estimates results in an accurately calculated Total Kept Income (10 pts)
 
 ## Resources
-- Personal Finance for Developers tutorial (add link) - this tutorial takes you on a step by step process to build a personal financial model that meets the requirements of this project.
+- [Personal Finance for Developers tutorial](https://www.makeschool.com/academy/track/personal-finance-jx8) - this tutorial takes you on a step by step process to build a personal financial model that meets the requirements of this project.
 
 ## Submission & Evaluation 
 
