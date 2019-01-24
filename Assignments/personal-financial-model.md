@@ -2,7 +2,7 @@
 
 Create a financial model to help you gain awareness and make decisions around your money. This model will include inputs from your actual life and should directly inform how you can achieve the goals you wrote out in class 1.
 
-**Due: Thurs Feb 14th**
+**Due: Thurs Feb 21th**
 
 ## Technical Requirements
 - input box with line items for salary, ISA, taxes, charitable giving rate (10 pts)
