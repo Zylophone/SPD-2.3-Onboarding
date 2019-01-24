@@ -78,7 +78,7 @@ Students by the end of the course will be able to ...
 ### Tutorials & Projects
 Tutorials are to help you get started in a topic.  They are graded on completion only.:
 
-- Personal Finance Tutorial - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers)
+- [Personal Finance Tutorial](https://www.makeschool.com/academy/track/personal-finance-jx8) - step by step instructions to building a personal financial model. This tutorial also familiarizes you with the basics of using spreadsheets (e.g. Google Sheets, Microsoft Excel, Apple Numbers). Finishing this tutorial will make it easy to build your personal financial model (project below).
 
 Projects
 
