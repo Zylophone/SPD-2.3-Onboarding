@@ -16,11 +16,12 @@ Create a financial model to help you gain awareness and make decisions around yo
 - Inputting estimates results in an accurately calculated Total Kept Income (10 pts)
 
 ## Goal Requirements (Optional)
-- Add to your financial model in order to inform your financial goals. (+10 for each goal) Get creative!! This may include:
-  - line items & calculations related to: morgages, saving up for a morgage, kids college tuition, vacation, etc
-  - calculating when you'll reach a financial target
-  - projecting out ways to save and invest money
-  - calculating expected returns from investments
+- Add to your financial model in order to inform your financial goals. (+10 for each goal) Get creative!! 
+  - This may include:
+    - line items & calculations related to: morgages, saving up for a morgage, kids college tuition, vacation, etc
+    - calculating when you'll reach a financial target
+    - projecting out ways to save and invest money
+    - calculating expected returns from investments
 
 ## Resources
 - [Personal Finance for Developers tutorial](https://www.makeschool.com/academy/track/personal-finance-jx8) - this tutorial takes you on a step by step process to build a personal financial model that meets the requirements of this project.
