@@ -9,3 +9,9 @@
     - *Body-weight exercise activity* - participate in a body weight exercise led by a professional instructor
   - **After Class** - 1. Pick a workout to do between this class and next class
 
+
+Personal Finance: Employment forms, taxation, charitable contributions
+  - **In Class Activities** - 
+    - *Filling out employment forms* 
+    - *Filing taxes simulation* 
+  - **After Class** - 1. Start Personal Finance Tutorial
