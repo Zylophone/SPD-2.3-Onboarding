@@ -1,16 +1,16 @@
-# Ramp Camp: Ticket Writing [(Slides)](https://docs.google.com/presentation/d/1ELpW7E9ccpW3rDtMEEaq57dvix00ca0GB2dxhrleJOY/edit?usp=sharing)
+# Ticket Writing [(Slides)](https://docs.google.com/presentation/d/1ELpW7E9ccpW3rDtMEEaq57dvix00ca0GB2dxhrleJOY/edit?usp=sharing)
 
 ## Minute-by-Minute
 
 | **Elapsed** | **Time**  | **Activity**                        |
 | ----------- | --------- | -------------------------           |
-| 0:00        | 0:05      | Overview/Learning Objectives        |
-| 0:05        | 0:20      | Initial Exercise                    |
-| 0:25        | 0:20      | TT 1                                |
-| 0:45        | 0:10      | In Class Activity I                 |
-| 0:55        | 0:10      | TT 2                                |
-| 1:05        | 0:20      | In Class Activity II                |
-| 1:25        | 0:05      | Summary                             |
+| 0:00        | 0:01      | Overview/Learning Objectives        |
+| 0:01        | 0:20      | Initial Exercise                    |
+| 0:26        | 0:05      | In Class Activity I                 |
+| 0:31        | 0:30      | TT 1 + In Class Activity II         |
+| 0:56        | 0:10      | TT 2                                |
+| 1:06        | 0:20      | In Class Activity III               |
+| 1:26        | 0:04      | Summary                             |
 | TOTAL       | 1:30      |                                     |
 
 ## Why you should know this
@@ -19,7 +19,7 @@ This is something every software engineer has to deal with in terms of how they 
 
 If you aren't able to clearly communicate a feature or bug, in the best case you have to have a number of followup conversations with your team to address unknowns and uncertanties. In the worst case, whoever is working on the ticket will implement it incorrectly, and now it has to be redone, which wastes time, resources, and causes a heavy dose of eye-rolling.
 
-## Learning Objectives (5 min)
+## Learning Objectives (1 min)
 By the end of this lesson, students should be able to...
 
 1. Explain the value in breaking up a single feature into multiple tickets
@@ -47,47 +47,28 @@ By the end of this lesson, students should be able to...
 - If there's more detail, less room for error
 - Building features in software is similar: better to start with something simple (MVP) and then iteratively build up to the final deliverable.
 
+## In Class Activity I (5 min)
 
-## TT I (20 min)
+- **3 min** - Give an example of a bad feature ticket and ask them to think about how they would implement it. Is it clear enough?
+- **2 min** - Go over why this is bad and lead into how to avoid it
 
-### Overview
-- Provide an example of receiving a vague feature ticket
-- When only a sentence or two are used to describe a feature, it can raise a lot of questions around the implementation details, which can cause frustration if these questions always have to be repeatedly asked
-- As a junior software engineer, you may not be writing tickets every day, but you will absolutely be receiving them, and will be expected to write them as you become more experienced, or if you take on a different role (Product manager, project manager, etc.)
-- Knowing how to write a solid ticket will not only help you communicate what you want built, but also will inform you on what to ask for if you receive a poorly worded one.
 
-### How to Write a Feature Ticket
+## TT I + In Class Activity II (30 min)
 
-- Requires at least the following 4 components:
-    - User story: concise one-liner on what we’re building and why
-    - Requirements: What are we building?
-    - Business Value: Why are we building this?
-    - Edge Cases: What are known problems to keep in mind that would only occur under extreme circumstances?
-- **User Stories** should always be written in the following format:
-    - As a [user_persona] I want to [interaction_with_feature] so that I can [end_user_goal]
-- **Requirements** describe what the feature is and how it should behave.
-- A **Business Value** is a concise 2-4 sentence statement as to why we’re building this feature, and what value it adds to the company.
-    - A non-technical person (executive, board member, etc.) should be able to read this statement and understand why it’s necessary.
-- **Edge Cases** are noted with the expected behavior when they're encountered. It's difficult to think of every edge case initially, but note down the ones that immediately come to mind
+### How to Write a Feature Ticket (Five 6 minute segments)
 
-### ROAMing Risks
-
-If risks of a feature are known upfront (and even when they're discovered later) they should be addressed using the **[ROAM](https://content.intland.com/blog/agile/safe/roam-risk-management-under-safe)** technique
-- Resolve: Risk has been answered/avoided/eliminated
-- Own: Risk is now owned by someone who’s responsible for handling it
-- Accept: Risk is accepted, and nothing will be done about it
-- Mitigate: The impact/likelihood of the risk has been decreased through actions by the team
-
-## In Class Activity I (10 min)
-
-### ROAMing Your Own Risk (7 min)
-
-Work with your team and find at least 1 risk in a feature ticket you have and apply the ROAM technique to it
-
-### Discuss Findings (3 min)
-
-Discuss findings as a class
-
+- For each of the sections below, there will be a **1 min TT** on explaining what they are, and then the students will take **5 min** to implement each section on a ticket from their project:
+    - **User Stories** should always be written in the following format:
+        - As a [user_persona] I want to [interaction_with_feature] so that I can [end_user_goal]
+    - **Requirements** describe what the feature is and how it should behave.
+    - A **Business Value** is a concise 2-4 sentence statement as to why we’re building this feature, and what value it adds to the company.
+        - A non-technical person (executive, board member, etc.) should be able to read this statement and understand why it’s necessary.
+    - **Edge Cases** are noted with the expected behavior when they're encountered. It's difficult to think of every edge case initially, but note down the ones that immediately come to mind
+    - **ROAMing Risks**: addressing risks on a ticket
+        - Resolve: Risk has been answered/avoided/eliminated
+        - Own: Risk is now owned by someone who’s responsible for handling it
+        - Accept: Risk is accepted, and nothing will be done about it
+        - Mitigate: The impact/likelihood of the risk has been decreased through actions by the team
 
 
 ## TT II (10 min)
@@ -110,19 +91,17 @@ They should contain at least the following components:
 - Current Behavior: What are you currently seeing?
 - Expected Behavior: What should you be seeing?
 
-## In Class Activity II  (20 min)
+## In Class Activity III  (20 min)
 
-### Apply What You Learned (15 min)
+### Peer Review (15 min)
 
-Get with your team and pick a feature on your project that hasn’t been written yet. Pick a smaller one that could fit in one ticket.
-
-Write the ticket as a group, applying the concepts you learned today
+Share your ticket with another team, and have the other team review the ticket, and then give feedback on the quality of the ticket
 
 ### Present your work (5 min)
 
 Present at the end of class
 
-## Wrap Up (5 min)
+## Wrap Up (4 min)
 
 - Break tickets up into iterative deliverables (MVP → Final Product)
 - Provide enough detail that any engineer can read it and understand what’s needed and why we’re building this feature
