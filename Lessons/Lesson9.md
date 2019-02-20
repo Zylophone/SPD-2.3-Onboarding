@@ -1,5 +1,7 @@
-# Health and Wellness: Intro
+# Taxes, Contracts, 401k, oh my!
   - **In Class Activities**
-    - *Fill out Habit Tracker*
-    - *Select lightning talk presentation topics*
-  - **After Class** - 1.) continue journaling
+    - *Calculate how much income hits your pay check*
+    - *Fill out w-2 forms*
+    - *Create a Google Sheets formula for progressive income tax*
+    - *Update your personal finance spreadsheet* to include accurate ISA #s and the correct income tax formula
+  - **After Class** - 1.) finish blog post and personal finance tutorial
