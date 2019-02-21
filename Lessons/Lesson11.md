@@ -93,13 +93,13 @@ They should contain at least the following components:
 
 ## In Class Activity III  (20 min)
 
-### Peer Review (15 min)
+### Peer Review (10 min)
 
 Share your ticket with another team, and have the other team review the ticket, and then give feedback on the quality of the ticket
 
-### Present your work (5 min)
+### Apply the feedback (10 min)
 
-Present at the end of class
+Apply the feedback to improve your ticket
 
 ## Wrap Up (4 min)
 
