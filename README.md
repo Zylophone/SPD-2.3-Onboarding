@@ -26,15 +26,12 @@ SPD 2.2
 
 Students by the end of the course will be able to ...
 
-1. Become aware of the various financial tools and concepts to gain understanding and control of your finances 
-1. Set ambitious personal financial goals and strategize how to reach them
-1. Spend money to make more money in the future as informed by investments, intertest, inflation, time value of money, credit cards, insurance
+1. Describe various financial tools and concepts to gain understanding and control of their personal finances 
+1. Understand how to spend money to make more money in the future through investments, interest, and inflation
 1. Utilize various science-based strategies to improve diet, exercise, sleep and relaxation
-1. Understand how the engineering hiring process works and the various systems/incentives that a hiring manager uses to make decisions
-1. Easily familiarize themselves with professional tools used at large software companies such as JIRA, Travis CI, Pivotal Tracker, and loggers
-1. Read technical documentation in order to navigate and contribute to massive codebases
-1. Write technical documentation in a clear, concise manner that utilizes examples to convey usage.
-
+1. Explain how the engineering hiring process works and the various systems/incentives hiring managers use
+1. Demonstrate basic proficiency with professional tools such as ticket trackers, continous integration, and loggers
+1. Read and write technical documentation in order to navigate and contribute to massive codebases
 
 
 ## Schedule
