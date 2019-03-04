@@ -10,4 +10,4 @@
   - Teach breakout - break into groups, read articles covering concepts in credit and prepare a presentation to the rest of the class
     
 ## **After Class** 
-- 1. Continue personal finance tutorial & blog post
+- Continue Personal Financial Model tutorial & blog post
