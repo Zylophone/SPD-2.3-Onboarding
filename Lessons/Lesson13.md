@@ -1,4 +1,4 @@
-# Exercises ([Class Slides](https://docs.google.com/presentation/d/1mzu26uKUFztK1vjoNH-vcBMdRIlMbsVAockk8jcxtK8/edit#slide=id.g4ef8e499d9_0_15))
+# Health and Wellness: Exercise ([Class Slides](https://docs.google.com/presentation/d/1mzu26uKUFztK1vjoNH-vcBMdRIlMbsVAockk8jcxtK8/edit#slide=id.g4ef8e499d9_0_15))
 
 ## Objectives
 1. Understand the metal and physical health benefits of exercising
