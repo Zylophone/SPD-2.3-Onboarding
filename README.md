@@ -57,7 +57,7 @@ Students by the end of the course will be able to ...
 |  9 | Thursday, February 21             | [Lesson 9] |
 |  10 |  Tuesday, February 26             | [Lesson 10] |
 |  11 | Thursday, February 28             | [Lesson 11] |
-|  12 |  Tuesday, March 5             | Final Class (presentations, etc) |
+|  12 |  Tuesday, March 5             | [Lesson 13] |
 |  13 | Thursday, March 7             | Final Exams/Presentations |
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -72,6 +72,7 @@ Students by the end of the course will be able to ...
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
+[Lesson 13]: Lessons/Lesson13.md
 
 ## Class Assignments
 
